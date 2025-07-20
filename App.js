@@ -414,3 +414,5 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
+// Build trigger comment - no changes
