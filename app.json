@@ -4,8 +4,14 @@
     "slug": "kitap",
     "version": "1.0.0",
     "orientation": "portrait",
+    "platforms": ["android"],
+    "sdkVersion": "53.0.0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
     "android": {
-      "package": "com.yourname.kitap",
+      "package": "com.luckychauhan.kitap",
+      "versionCode": 1,
       "googleServicesFile": "./google-services.json"
     }
   }
