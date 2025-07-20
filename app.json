@@ -1,13 +1,16 @@
 {
   "expo": {
     "name": "Kitap",
-    "slug": "kitap",
+    "slug": "kitapara",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
     "sdkVersion": "53.0.0",
     "updates": {
       "fallbackToCacheTimeout": 0
+    },
+    "cli": {
+      "appVersionSource": "appVersion"
     },
     "android": {
       "package": "com.luckychauhan.kitap",
