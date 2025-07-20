@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Kitap",
+    "slug": "kitap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.yourname.kitap",
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
