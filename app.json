@@ -13,6 +13,11 @@
       "package": "com.luckychauhan.kitap",
       "versionCode": 1,
       "googleServicesFile": "./google-services.json"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "@luckychauhan001/kitapara-f0c73d4a-237e-43d9-a32d-a7ce81a4b591"
+      }
     }
   }
 }
